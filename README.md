@@ -15,4 +15,3 @@ A simple example module.
 ## Installation
 ```bash
 pip install igpyhw
-
